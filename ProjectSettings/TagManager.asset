@@ -12,6 +12,9 @@ TagManager:
   - Decay
   - Drill
   - DrillTip
+  - aerator
+  - MedicalSyringe
+  - Filling
   layers:
   - Default
   - TransparentFX
