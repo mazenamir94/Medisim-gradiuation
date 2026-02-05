@@ -1,0 +1,2199 @@
+                    PRECLINICAL MANUAL OF
+                   CONSERVATIVE DENTISTRY
+
+
+
+
+                                 V Gopikrishna MDS, FISDR
+                                           Professor
+                      Department of Conservative Dentistry and Endodontics
+                         Thai Moogambigai Dental College and Hospital
+                                        Chennai, INDIA
+
+
+
+
+                                           ELSEVIER
+                         A division of Reed Elsevier India Private Limited
+
+
+
+
+Prelims.indd iii                                                             11/29/2010 12:01:37 PM
+                                               CONTRIBUTORS
+
+
+
+
+            V Gopikrishna MDS, FISDR
+            Professor
+            Department of Conservative Dentistry and Endodontics
+            Thai Moogambigai Dental College and Hospital
+            Chennai, INDIA
+
+            G Vijayalakshmi BDS
+            Senior Lecturer
+            Department of Conservative Dentistry and Endodontics
+            Meenakshi Ammal Dental College and Hospital
+            Chennai, INDIA
+
+            M Abarajithan MDS
+            Senior Lecturer
+            Department of Conservative Dentistry and Endodontics
+            Meenakshi Ammal Dental College and Hospital
+            Chennai, INDIA
+
+
+
+
+Prelims.indd vii                                                   11/29/2010 12:01:37 PM
+                                                                     PREFACE
+
+
+
+
+            It has been a labour of love, inspiration, hard work and perseverance in publishing this
+            Preclinical Manual of Conservative Dentistry.
+               Conservative Dentistry forms the backbone and foundation of clinical dentistry. This
+            subject is introduced to the students of dentistry in the ﬁrst year of the curriculum. In the
+            second year of the course, the students are required to identify instruments and equipment,
+            understand and manipulate the various dental materials, and perform certain preclinical
+            plaster and typhodont teeth exercises. They appear for a preclinical examination at the end
+            of the second year before entering into the clinical work on patients in the third year.
+               In my own experience as an undergraduate student, I found it very difﬁcult to comprehend
+            this subject for two speciﬁc reasons: primarily, the student is expected to learn this from
+            textbooks which are meant for the ﬁnal year BDS student and secondly, all the available
+            textbooks are theoretically oriented without any practical guidance. The inspiration to create
+            this manual came from my admiration for the textbook Fundamentals of Fixed Prosthodontics
+            (2nd edn) by Herbert T Shillingburg. As a postgraduate student, I was amazed at the clarity of
+            images and illustrations which made learning complex clinical exercises simpler and learner
+            friendly. I have employed a similar template for creating a step wise chairside manual from
+            which a student can learn and refer to while performing the preclinical exercises.
+               This book consists of altogether 9 chapters.
+               Chapter 1: Synopsis of Conservative Dentistry discusses structure of teeth and supporting
+            tissues, nomenclature and tooth numbering systems, dental caries, noncarious loss of tooth
+            structure, types of restorations and introduction to endodontics.
+               Chapter 2: Instruments and Equipment includes clear description with illustration of every
+            instrument and equipment a student is expected to know, identify and use before entering
+            the clinical section.
+               Chapter 3: Materials and Their Manipulation provides details regarding the composition,
+            properties, uses and manipulation of the various dental materials employed in the ﬁeld of
+            conservative dentistry.
+               Chapter 4: Know Your Operating Field includes clear description with images of the
+            phantom head and typhodont teeth used in the preclinical laboratory along with a beginner’s
+            pictorial guide in using the airotor and micromotor rotary instruments.
+
+
+
+
+Prelims.indd ix                                                                                     11/29/2010 12:01:37 PM
+                 PREFACE
+        x
+
+               Chapter 5: Fundamentals of Cavity Preparation discusses the various features, rules and
+            fundamentals of cavity preparation for different restorations.
+               Chapter 6: Preclinical Plaster Model Exercises provides step-by-step pictorial represen-
+            tation along with explanation of all laboratory plaster model exercises a student has to
+            perform.
+               Chapter 7: Preclinical Typhodont Exercises provides step-by-step pictorial representation
+            along with explanation of all typhodont model exercises a student has to perform.
+               Chapter 8: Common Viva Questions and Spotters provides more than 200 commonly asked
+            questions to help students prepare for their viva-voce examination along with the frequently
+            asked spotters.
+               Chapter 9: Glossary of Terms contains a comprehensive list of commonly asked terms in
+            conservative dentistry and endodontics.
+               This manual contains more than 1000 pictures, illustrations and original images taken
+            under the dental operating microscope. Every attempt has been made to make this manual
+            as simpliﬁed and student friendly as possible.
+
+                                                                                         V Gopikrishna
+
+
+
+
+Prelims.indd x                                                                                    11/29/2010 12:01:37 PM
+                               ACKNOWLEDGEMENTS
+
+
+
+
+            “Thank you” are two little words which would probably never completely convey the sense
+            of gratitude and regards which I feel for each of the following wonderful people who have
+            made this Preclinical Manual of Conservative Dentistry, a reality.
+               My sincere gratitude to my friend, colleague and chief contributor, Dr G Vijayalakshmi
+            whose contributions are invaluable. She is a teacher par excellence and her inputs both in
+            the conception and execution of the preclinical exercises were priceless. I also thank Dr M
+            Abarajithan for his valuable contribution.
+               I would like to compliment the wonderful team at Reed Elsevier for showing enormous
+            faith and patience with me and for their sheer professionalism in giving life to this manual.
+            Thank you Ritu Sharma, Nimisha Goswami and Anand K Jha.
+               My sincere thanks to each one of the following people at the places of my work for helping
+            me in various ways during the genesis of this edition. Your support and help was indispens-
+            able and I could not have completed this task without each one of you.
+            Meenakshi Ammal Dental College:
+              Postgraduate students: Dr Anusha Bharatam, Dr A Krishnamurti, Dr E Spoorthy, Dr Puneet
+              Ahuja, Dr MV Aswin Kumar and Dr V Vidhya
+              Interns: Dr Dhatri Priya Bandi and Dr Anu Anna John
+              II year BDS students: Riddhi Janee, Abhishek J, Vanama Sindhu and Geethika M
+              Dental Technicians: Mr M Sathish Kumar and Mr Venkatesh
+            Root Canal Centre:
+              Dr Fazila, Dr Anuradha and Mr Ramesh
+            Acharya Dental:
+              Dr Vijailakshmi Acharya
+              Dental Technicians: Mr E Chandrasekaran, Ms D Doris Suzana, Mr N Nigash and Mrs K
+              Mythili
+
+
+
+
+Prelims.indd xi                                                                                    11/29/2010 12:01:38 PM
+                   ACKNOWLEDGEMENTS
+      xii
+
+               They say that “The mediocre teacher tells, The good teacher explains, The superior
+            teacher demonstrates while The great teacher inspires”.
+               I have been fortunate to have had a string of wonderful teachers who have inﬂuenced my
+            intellect and inspired me. I would like to acknowledge each and every teacher who taught,
+            molded and inspired me in my journey as a student at…
+            • Baba Montessori School, Hyderabad
+            • Kendriya Vidyalaya, RK Puram, Sector IV, New Delhi
+            • Chinmaya Vidyalaya, Tirunelveli
+            • Rajah Muthiah Dental College, Chidambaram
+            • Meenakshi Ammal Dental College, Chennai
+              Last but not the least, my indebtedness to my family for their love, support and encour-
+            agement in all my endeavours…
+
+                                                                                       V Gopikrishna
+
+
+
+
+Prelims.indd xii                                                                                11/29/2010 12:01:38 PM
+                                                                  CONTENTS
+
+
+
+
+             Contributors                                                               vii
+             Preface                                                                     ix
+             Acknowledgements                                                            xi
+
+               Chapter 1        Synopsis of Conservative Dentistry                       1
+                                V Gopikrishna
+                                 Indications for Conservative Dentistry                 1
+                                 Structure of Teeth and Supporting Tissues              2
+                                 Dentition                                              8
+                                 Nomenclature and Tooth Numbering System               10
+                                 Causes of Loss of Tooth Structure                     19
+                                 Noncarious Destruction of Tooth                       29
+                                 Endodontics                                           35
+
+
+               Chapter 2        Instruments and Equipment                              37
+                                V Gopikrishna, G Vijayalakshmi
+                                 Materials Used for Manufacturing Instruments          37
+                                 Classiﬁcation of Operative Dental Instruments         38
+                                 Parts of Hand Cutting Instruments                     40
+                                 Instrument Nomenclature (According to GV Black)       43
+                                 Instrument Formula                                    43
+                                       I. Three Number Formula                         44
+                                       II. Four Number Formula                         45
+                                 Instrument Designs                                    45
+                                 Sharpness Test                                        72
+                                 Principles of Sharpening                              74
+
+
+
+
+Prelims.indd xiii                                                                   11/29/2010 12:01:38 PM
+               CONTENTS
+     xiv
+
+                           Rotary Cutting Instruments                                               74
+                           Finishing and Polishing Instruments                                      84
+                           Contacts and Contours                                                    86
+                                 Procedures for Forming Proper Contact and Contours                 90
+                                 Separators                                                         97
+                                 Wedges                                                             99
+                             Endodontic Instruments                                               101
+                             Equipment                                                            101
+
+
+              Chapter 3   Materials and Their Manipulation                                       105
+                          V Gopikrishna, G Vijayalakshmi
+                           Properties of an Ideal Dental Restorative Material                     105
+                           Rationale for Studying Dental Materials                                105
+                           Dental Materials                                                       107
+                           Dental Cements                                                         108
+                                 Cavity Varnish                                                   111
+                                 Cavity Liners                                                    112
+                                 Calcium Hydroxide                                                113
+                                 Cement Bases                                                     115
+                                 Dental Amalgam                                                   130
+                                 Adhesion to Tooth Structure                                      141
+                                 Inlay Wax                                                        151
+                                 Investment Materials                                             153
+                                 Dental Casting Alloys                                            155
+                                 Finishing and Polishing Materials                                157
+
+
+              Chapter 4   Know Your Operating Field                                              161
+                          V Gopikrishna
+                                 Dental Chair                                                     161
+                                 Phantom Head                                                     161
+                                 Typhodont Teeth                                                  162
+                                 Instrument Tray                                                  163
+                                 Compressed Air-Water Line                                        164
+                                 Three Way Syringe                                                165
+                                 Cavity Holder                                                    165
+                             Beginners’ Guide for Using Instruments and Equipment                 166
+                                 Connecting the Airotor Handpiece to the Air-Water Line           166
+                                 Placement of Bur into the Airotor Handpiece                      168
+                                 Connecting the Airmotor Base with the Air-Water Line
+                                  and to the Latch Type Contra-Angled/Straight Handpiece           170
+                                 Placement of Bur into the Latch Type Contra-Angled Handpiece     175
+                                 Placement of Bur into the Straight Handpiece                     177
+                                 Attaching the Typhodont Teeth Set to the Phantom Head            178
+                                 Operator Positions                                               181
+
+
+
+
+Prelims.indd xiv                                                                                 11/29/2010 12:01:38 PM
+                                                                                                            xv
+
+              Chapter 5   Fundamentals of Cavity Preparation                                      185
+                          V Gopikrishna, M Abarajithan
+                             Introduction                                                          185
+                             Fundamentals of Cavity Preparation                                    188
+                                 Initial Tooth Preparation Stages                                  189
+                                 Final Tooth Preparation Stages                                    202
+
+
+              Chapter 6   Preclinical Plaster Model Exercises                                     211
+                          G Vijayalakshmi, V Gopikrishna
+                           Introduction                                                            211
+                           Class I Cavity: Walls, Line Angles and Point Angles                     211
+                           Class II Cavity: Walls, Line Angles and Point Angles                    237
+                           Class III Cavity: Walls, Line Angles and Point Angles
+                            in Proximal Approach                                                    259
+                           Class IV Cavity: Walls, Line Angles and Point Angles—
+                            Proximal Approach                                                       262
+                           Class V Cavity: Walls, Line Angles and Point Angles                     266
+
+
+              Chapter 7   Preclinical Typhodont Exercises                                         271
+                          V Gopikrishna, G Vijayalakshmi
+                           Preclinical Exercises                                                   271
+                           Class I Cavity Preparation for Amalgam Restoration                      271
+                           Class II Cavity Preparation for Amalagam Restoration                    288
+                                 Common Errors in Class II Cavity Preparation                      315
+                                 Common Errors in Class II Cavity Filling                          316
+                                 Class II Cavity Preparation (DO−Disto Occlusal) for a
+                                  Maxillary First Molar                                             317
+                                 Ivory No. I Matrix and Retainer Placement                         320
+                                 Class II (MO−Mesio Occlusal) Composite Restoration
+                                  Using Sectional Matrix (Clinical Case)                            321
+                                 Class II DO (Disto−Occlusal) Cavity in a
+                                  Mandibular Premolar                                               323
+                                 Class II MOD (Mesio-Occlusodistal) Cavity in Mandibular Molar     324
+                             Class III Cavity Preparation for a Glass Ionomer
+                              Cement/Composite Restoration                                          324
+                                 Class III (Palatal Approach) Cavity Preparation                   328
+                                 Class III Cavity−(Palatal Approach)−Glass Ionomer
+                                  Cement Restoration                                                329
+                             Class IV Cavity Preparation for Composite Restoration                 330
+                                 Class IV Cavity Preparation for Composite Restoration-
+                                  Clinical Case                                                     331
+
+
+
+
+Prelims.indd xv                                                                                   11/29/2010 12:01:38 PM
+               CONTENTS
+     xvi
+
+                           Class V Cavity Preparation                                      335
+                           Deep Caries Management in Mandibular Molar                      337
+                           Cavity Preparation, Fabrication of Wax Pattern and
+                            Casting Procedure for Cast Metal Inlay                          340
+                                 Class I Cast Metal Inlay in a Mandibular Second Molar     345
+                                 Fabrication of Wax Pattern and Casting Technique          346
+                                 Casting Defects                                           357
+
+
+              Chapter 8   Common Viva Questions and Spotters                              361
+                          G Vijayalakshmi
+                           Frequently Asked Questions                                      361
+                           Frequently Asked Spotters                                       387
+
+
+              Chapter 9   Glossary of Terms                                               397
+                          M Abarajithan
+                           Anatomical Landmarks                                            397
+                           Dental Caries                                                   400
+                           Noncarious Destruction of Teeth                                 400
+                           Tooth Preparation and Nomenclature                              401
+                           Indirect Restorations                                           403
+                           Instruments and Equipment                                       404
+                           Properties of Dental Materials                                  407
+                           Types of Dental Materials                                       409
+                           Endodontics                                                     413
+
+
+
+
+Prelims.indd xvi                                                                          11/29/2010 12:01:38 PM
+                               SYNOPSIS OF
+                    CONSERVATIVE DENTISTRY
+                                                                            V Gopikrishna
+
+
+                                                                                                      1
+                                                                                                  CHAPTER
+
+
+
+                           “I keep six honest servingmen (they taught me all I knew);
+                   their names are What and Why and When and How and Where and Who...”
+                                                                                   — Rudyard Kipling
+           Operative dentistry is the art and science of the diagnosis, treatment, and prognosis of
+           defects of teeth that do not require full coverage restorations for correction. It involves the
+           restoration of proper tooth form, function, and aesthetics while maintaining the physiologic
+           integrity of the teeth in harmonious relationship with the adjacent hard and soft tissues. It
+           is also referred as Restorative Dentistry or Conservative Dentistry.
+              Patients seek dental treatment for symptoms such as pain, sensitivity, trauma, decay,
+           bleeding gums, discolouration of teeth and for aesthetic corrections. The management of
+           most of these problems are under the purview of this branch of dentistry. Hence, restorative/
+           conservative dentistry forms the core of any dental practice.
+           Restorative dentistry/conservative dentistry deals with:
+            Prevention of dental diseases
+            Interception of degenerative processes
+            Preservation of the oral tissues
+            Restoration of lost tooth structure
+            Aesthetic correction of discoloured or malaligned teeth
+
+
+
+
+           INDICATIONS FOR CONSERVATIVE DENTISTRY
+            Dental caries causing loss of tooth structure
+            Noncarious loss of tooth structure
+              Attrition
+              Abrasion
+              Erosion
+              Abfraction
+              Developmental defects
+            Traumatic injuries causing loss of tooth structure/s
+
+
+
+
+Chapter-1.indd 1                                                                                    11/25/2010 8:09:36 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+       2
+
+              Aesthetic management/improvement of the colour and shape of teeth
+              Repair or replacement of existing restorations.
+
+
+           STRUCTURE OF TEETH AND SUPPORTING TISSUES
+           A tooth has a crown portion seen clinically in the oral cavity and a root portion embedded in
+           a bony socket surrounded by the periodontium (Fig 1.1).
+
+
+
+
+                            Fig 1.1 Component tissue and supporting structures of the tooth
+
+
+           ENAMEL
+            The hardest substance of human body.
+            It is a highly mineralized structure containing 95% to 98% inorganic matter predominantly
+             hydroxyapatite (Fig 1.2).
+
+
+
+
+Chapter-1.indd 2                                                                                  11/25/2010 8:09:36 PM
+                                                                   SYNOPSIS OF CONSERVATIVE DENTISTRY
+                                                                                                                                 13
+
+
+
+                                                                       8       9
+                                                               7                     10
+                                                           6                              11
+                                             Facial
+
+                                                       5
+                                                                                               12
+
+
+
+
+                                                                                                               Me
+                         Mesial                                     Maxillary arch
+                         surface
+
+
+
+
+                                                                                                                sia
+                                                   4                                                13
+
+
+
+
+                                                                                                                  l
+                                                                   Lingual
+                                               3                                                         14
+                Facial             Lingual
+
+
+
+
+                                                                                                               Distal
+               surface             surface
+
+                                             2                                                            15
+
+                          Distal
+                         surface
+                                              1                                                           16
+
+                                              Right quadrant                              Left quadrant
+
+
+
+                                    Fig 1.20 Nomenclature of the maxillary arch
+
+
+           Tooth Numbering System (Fig 1.20)
+           I. Zsigmondy—Palmer system (Fig 1.21)
+            Permanent teeth are denoted by numbers 1−8 with central incisor indicated as 1 and pro-
+             gresses on to the third molar which is designated as 8.
+            Also called as angular or grid system.
+            Deciduous teeth are denoted by upper case English alphabets A to E with A representing
+             central incisor and E representing second molar.
+            Simple to use but not universal in application.
+            Each tooth is not denoted by a speciﬁc number.
+            No differentiation between the same tooth present in the right and left side of the same
+             arch. For example the nomenclature is the same for both left and right maxillary teeth
+             and so is the case for left and right mandibular teeth.
+
+
+
+
+Chapter-1.indd 13                                                                                                       11/25/2010 8:09:41 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+     14
+
+
+
+
+                                 Fig 1.21 Zsigmondy–Palmer tooth numbering system
+
+           II. American Dental Association (ADA) system (Fig 1.22)
+            It is also known as Universal system.
+            Numbering begins from maxillary right posterior most tooth which is designated as 1 and
+             proceeds to maxillary left posterior most tooth which is designated as 16, then to mandib-
+             ular left posterior tooth which is designated as 17 and then proceeds to the mandibular
+             right posterior most tooth which is designated as 32.
+            Permanent teeth denoted by number 1−32.
+            Deciduous teeth denoted by alphabets A−T.
+
+
+
+
+Chapter-1.indd 14                                                                                11/25/2010 8:09:41 PM
+                                       INSTRUMENTS AND
+                                             EQUIPMENT
+                                                          V Gopikrishna, G Vijayalakshmi
+
+
+                                                                                                      2
+                                                                                                  CHAPTER
+
+
+
+                                 “A man who works with his hands is a... Labourer
+                           A man who works with his hands and his brain is a... Craftsman
+                    But a man who works with his hands and his brain and his heart is an Artist.”
+                                                                                              —McGhee
+
+           The shaping, removal and restoration of tooth structure are the three essential aspects of
+           restorative dentistry. Instruments are small hand held devices which are used for various
+           procedures while treating a patient, e.g. mouth mirrors, probes, tweezers, condensers.
+           Equipment are larger devices which aid the clinician while treating a patient, e.g. dental
+           chair, operating stool, x-ray unit, amalgamator.
+
+
+           MATERIALS USED FOR MANUFACTURING INSTRUMENTS
+              1. Carbon steel: They contain 0.5−1.5 % carbon in iron. They are harder and sharper than
+                 stainless steel but tend to corrode and are prone for fracture.
+              2. Stainless Steel
+                   a. Pure stainless steel: It is an alloy comprising of 70−85% Iron, 15−25 % of chromium
+                      and 1−2 % of carbon. They are the most commonly used material for the manufacture
+                      of dental instruments. Their main disadvantage is their tendency to lose their
+                      sharpness due to repeated usage.
+                   b. Stainless steel with teﬂon/titanium nitride coating: These are instruments which
+                      are speciﬁcally used for the placement and handling of dental composites. The
+                      advantage is that the composite does not stick to this coating and make the
+                      placement of composites simpliﬁed.
+              3. Carbide inserts: Some instruments are made with carbide inserts to provide more
+                 durable cutting edges.
+              4. Others: Other alloys of nickel, cobalt or chromium are used in the manufacture of hand
+                 instruments.
+
+
+
+
+Chapter-2.indd 37                                                                                  11/26/2010 12:37:18 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+     60
+
+
+
+
+                                    (a)                 (b)                (c)
+
+
+
+           Fig 2.33 (a) Left cutting mesial gingival margin trimmer; (b) Left cutting distal gingival margin trimmer;
+           (c) Right cutting bin-angle hatchet
+
+
+               It is available as double ended (right and left) mesial or distal pair (Fig 2.34).
+
+
+
+
+               (a)                              (b)                                (c)
+
+                             Fig 2.34 (a) Distal GMT; (b) Mesial GMT; (c) View of both the GMTs
+
+            Clinical Note:
+             1. Of the cutting edge tips, if the tip that is closer to the shaft forms an acute angle, it is
+                 the mesial GMT and if it forms an obtuse angle, it is identiﬁed as a distal GMT.
+             2. If the second number of the instrument formula is 75−85 then, it is a mesial GMT.
+             3. If the second number of the instrument formula is 90−100 then, it is a distal GMT.
+             4. The mesial 75−distal 100 pair of GMTs are used for inlay−onlay cavity preparations.
+             5. The mesial 85−distal 90 pair of GMTs are used for amalgam cavity preparations.
+
+
+
+
+Chapter-2.indd 60                                                                                             11/26/2010 12:37:28 PM
+                                                                              INSTRUMENTS AND EQUIPMENT
+                                                                                                                        61
+
+
+
+
+                                      (a)                           (b)
+
+
+
+           Fig 2.35 End view of gingival margin trimmers, paired (a) Right cutting; (b) Left cutting. A double ended
+           GMT has both left cutting and right cutting ends. A complete set of GMT comprises of two double ended
+           GMTs: one double ended mesial GMT and one double ended distal GMT
+
+            The GMTs are designed to produce
+              Proper bevel on gingival enamel margins of proximoocclusal preparations.
+              Roundening or bevelling of the axiopulpal line angle.
+            They are used in a lateral scrapping motion.
+
+
+
+
+                                                         (a)                        (b)
+
+
+
+
+           Fig 2.36 (a) Gingival marginal trimmer being used in a proximal box of a class II preparation with a
+           horizontal (right or left) stroke to plane a gingival wall and margin; (b) Gingival marginal trimmer being
+           used with a vertical, or chopping stroke to plane a facial or lingual wall and margin (A hatchet can also
+           be used in a similar fashion)
+
+
+
+
+Chapter-2.indd 61                                                                                             11/26/2010 12:37:29 PM
+                                                                          INSTRUMENTS AND EQUIPMENT
+                                                                                                                  69
+
+
+
+
+                                                             (a)
+
+
+
+
+                                                             (b)
+
+
+
+
+                                                             (c)
+
+
+
+
+           Fig 2.51 Burnishers: (a) PKT3 burnisher (Rounded cone shaped); (b) Beaver tail (no 2) burnisher; (c)
+           Football or ovoid burnisher
+
+            The pad of the middle ﬁnger is near the top side of the instrument for good control and
+             cutting pressure.
+            A balanced instrument design allows the application of suitable force without the instru-
+             ment tending to rotate in the ﬁngers.
+
+
+
+
+                    (a)                                            (b)
+
+           Fig 2.52 Basic difference between (a) Pen grasp and modified pen grasp; (b) Note the difference in
+           angle formed by the shaft of the instrument and the long axis of the forearm. The typical pen grasp
+           involves the wrist the modified pen grasp involves the forearm
+
+           2. Inverted pen grasp
+              This is similar to the modiﬁed pen grasp except that the hand is rotated so that the palm
+               faces more towards the operator (Fig 2.53).
+
+
+
+
+Chapter-2.indd 69                                                                                       11/26/2010 12:37:31 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+     82
+
+                                                       X
+
+
+
+
+                                                             Y
+
+
+
+
+                                             W
+
+
+
+
+                                                 V           View               z
+
+
+
+
+                                                 (a)                            (b)
+
+
+
+           Fig 2.69 Design features of bur heads (illustrated using No. 701 bur). (a) Lateral view: neck diameter
+           (v), head length (w), taper angle (x), and spiral angle (y); (b) End view: head diameter (z)
+
+           Bur blade design (Fig 2.70)
+            The actual cutting action of a bur (or a diamond) takes place in a very small region at the
+             edge of the blade.
+            Each blade has two sides
+             a. Rake face (towards the direction of cutting)
+             b. Clearance face (away from the direction of cutting)
+            Each blade has three important angles (Fig 2.71):
+             a. Rake angle: The rake angle is the angle between the rake face and the radial line.
+
+
+
+                                                                        Negative rake angle
+                                           on
+
+
+
+
+                                                                          Radial rake angle
+                                         tati
+
+
+
+
+                                                                            Positive rake angle
+                                        Ro
+
+
+
+
+                                                                                         Cutting
+                                                                              ce          edge
+                                                                           Fa oth
+                                                                                         )
+
+
+
+
+                                                                            To
+                                                                                        nk
+                                                                                      (fla
+                                                                                  ck
+                                                                                Ba
+
+
+
+
+                                                             Tooth angle
+                                                                                               rk
+                                                                                             Wo
+
+
+
+
+                                                                    Clearance
+                                                                      angle
+
+                                       Flute or chip space
+
+
+           Fig 2.70 Bur blade design. Schematic cross-section viewed from shank end of head to show rake angle,
+           edge angle, and clearance angle
+
+
+
+
+Chapter-2.indd 82                                                                                         11/26/2010 12:37:37 PM
+                              MATERIALS AND THEIR
+                                   MANIPULATION
+                                                         V Gopikrishna, G Vijayalakshmi
+
+
+                                                                                                      3
+                                                                                                 CHAPTER
+
+
+
+                “Education is what remains after one has forgotten what one has learned in school.”
+                                                                                     — Albert Einstein
+
+
+           PROPERTIES OF AN IDEAL DENTAL RESTORATIVE MATERIAL
+           According to Anusavice, an ideal dental restorative material should have the following
+           properties:
+              i. Biocompatible
+             ii. Bond permanently to tooth structure
+            iii. Match the natural appearance of tooth structure
+             iv. Exhibit properties similar to those of the enamel and dentin
+              v. Capable to initiating tissue repair or regeneration of missing or damaged tissues
+             However, there is not a single restorative material which would fulﬁl all of the above
+           requirements. Hence, a student/clinician should be able to assess the given clinical condition
+           and choose the right restorative material for the given clinical situation.
+             Technological advancements and improvements in the ﬁeld of research in basic sciences
+           have lead to the development of several new materials. Knowledge and understanding of
+           composition, properties, behaviour, limitations of these materials are necessary for the
+           proper selection of an appropriate material.
+
+
+           RATIONALE FOR STUDYING DENTAL MATERIALS
+              1. To understand the properties and behaviour of materials.
+              2. To be able to handle and manipulate the materials properly.
+              3. To be able to assess and use the appropriate material for the given clinical condition.
+              4. To be able to educate patients.
+
+           Properties of Materials
+              1. Physical properties: These involve reversible interactions of a material with the
+                 environment. This includes:
+
+
+
+
+Chapter-3.indd 105                                                                                 11/26/2010 12:36:00 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   142
+
+           Acid Etching of Enamel/Dentin
+           It was conceived by Michael Buonocore in the 1950’s.
+              This is one of the most effective ways of improving the bond and marginal seal between
+           resins and the enamel/dentin.
+              It involves the application of 37% phosphoric acid (preferably in gel form) for 15 seconds over
+           the tooth structure to be restored followed by rinsing with water for 10−15 seconds (Figs 3.54
+           and 3.55). It is supplied in a coloured gel form preloaded in a syringe (Fig 3.56).
+              It results in a frosty white appearance due to the removal of enamel prism cores and
+           peripheries creating microporosity (Figs 3.57 to 3.59).
+
+
+
+
+                       Fig 3.54 Unetched enamel               Fig 3.55 Application of the 37% phosphoric acid
+                                                              etchant for 10−15 seconds
+
+
+
+
+            Fig 3.56 Phosphoric acid gel (Courtesy: Ivoclar    Fig 3.57 Frosty white appearance of the etched
+            Vivadent)                                          enamel
+
+
+
+
+           Fig 3.58 SEM image of etched enamel showing areas with preferential removal of prism core material
+           and the prism peripheries relatively intact (SEMX2000)
+
+
+
+
+Chapter-3.indd 142                                                                                     11/26/2010 12:36:39 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   144
+
+                                                      Adhesive
+
+
+                                                                        Enamel prism
+                                                                           (rod)
+                                            Enamel
+
+
+
+
+                                                                        Interprism etching
+
+                                                                        Intraprism etching
+
+
+                                                                        Macrotag
+
+
+                                                                        Microtag
+
+
+
+
+                     Fig 3.60 Cross-sectional views of micromechanical retention of enamel bonding systems
+
+
+           Mechanism
+              (i) They are adhesion promoting agents and contain hydrophilic monomers dissolved in
+                  solvents such as acetone, ethanol and/or water.
+
+
+             (ii) The solvents displace water from the moist dentin surface thereby promoting the
+                  inﬁltration of the resin monomers into the etched and demineralised substrate.
+
+
+            (iii) This zone of resin inﬁltrated demineralised dentin is commonly referred to as hybrid
+                  layer.
+
+
+             (iv) Primers also contain hydrophobic monomers that would copolymerize with the
+                  adhesive resin.
+           B. Adhesive resin
+           The adhesive resin, also called as the bonding agent, is similar to the enamel bonding agents
+           and consists of:
+            a. Primarily of hydrophobic resin monomers such as BIS-GMA and UDMA.
+            b. TEG-DMA as a viscosity regulator.
+            c. Hydrophilic monomers like HEMA.
+
+
+
+
+Chapter-3.indd 144                                                                                           11/26/2010 12:36:41 PM
+                                                                 MATERIALS AND THEIR MANIPULATION
+                                                                                                              145
+
+           Mechanism
+              (i) The hydrophilic resins present in the primers inﬁltrate the surface layer of collagen
+                  ﬁbres in the demineralised dentin to form a hybrid layer consisting of resin-inﬁltrated
+                  dentin (Fig 3.61).
+
+
+             (ii) The primary function of the adhesive resin is to coplymerize with the resins present
+                  in the primers thereby stabilizing the hybrid layer.
+
+
+            (iii) They also form resin extensions into the dentinal tubules called as resin tags (Fig
+                  3.62).
+
+
+             (iv) These resins are then polymerized by light curing and/or auto curing mechanism.
+
+
+              (v) The surface layer of the adhesive resin is now suitable to be copolymerized with the
+                  composite restorative resin.
+
+           Classiﬁcation of Dental Adhesives
+              I. According to the chronology of development
+             II. According to the bonding mechanism
+
+           I. According to the Chronology of Development
+           First generation adhesives
+           It was based upon NPG-GMA and was bonded to enamel and dentin by chelation with calcium
+           on the tooth surface.
+
+           Second generation adhesives
+           These were based on phosphorous esters of methacrylate derivatives and bonding was due to
+           the ionic interaction between negatively charged phosphate groups and positively charged
+           calcium.
+
+           Third generation adhesives
+           The basis of this generation was to modify the smear layer created on the tooth surface with
+           the help of agents like EDTA or maleic acid followed by the application of the resin.
+
+           Fourth generation adhesives
+           They form part of the etch and rinse group of adhesives.
+              The basis of this generation of adhesives was the Total etch concept wherein a speciﬁc
+           conditioning/etching of both enamel and dentin was advocated before the application of the
+           primer and adhesive agent.
+
+
+
+
+Chapter-3.indd 145                                                                                  11/26/2010 12:36:41 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   146
+
+
+                                                                                          Composite resin
+
+
+
+
+                                                                                          Hybrid layer
+
+
+
+
+                                                                                          Resin tags
+
+
+                                                                                          Dimineralized
+                                                                                          dentin
+
+
+                                                                                          Normal dentin
+
+
+                             Fig 3.61 Hybrid layer and resin tag formation in dentin bonding
+
+
+
+
+                      Fig 3.62 SEM image of resin tags penetration into the exposed dentinal tubules
+
+
+              They are also referred to as Three step etch and rinse adhesives as they had three distinct
+           step (Fig 3.63):
+               Step 1  Conditioning/etching of enamel and dentin
+               Step 2  Primer application
+               Step 3  Adhesive application
+
+
+
+
+Chapter-3.indd 146                                                                                          11/26/2010 12:36:41 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   152
+
+              Inlay wax is a specialized dental wax that can be used for making direct and indirect
+           patterns of the tooth prepared for inlays, onlays crowns and bridges, which is later converted
+           into cast metal by the lost wax casting technique (Figs 3.71 and 3.72).
+
+           Ideal Requirements
+            The wax should be uniform when softened.
+            The colour should contrast with the die for better identiﬁcation and ﬁnishing of margins.
+            It should not be ﬂaky or rough during moulding after softening.
+            The wax pattern should be completely rigid and dimensionally stable.
+            It should vaporize completely without residue during burn out.
+
+
+           Classiﬁcation
+           Type I medium wax used for direct technique.
+           Type II soft wax used for indirect technique (Figs 3.73 and 3.74).
+
+
+
+
+                          Fig 3.71 Inlay wax             Fig 3.72 Inlay wax being used for the fabrication
+                                                         of wax patterns for (a) inlay and (b) onlay
+                                                         restorations
+
+
+
+
+            Fig 3.73 Fabrication of a direct inlay wax               Fig 3.74 Inlay wax pattern
+            pattern
+
+
+
+
+Chapter-3.indd 152                                                                                  11/26/2010 12:36:45 PM
+                                                   KNOW YOUR
+                                               OPERATING FIELD
+                                                                                  V Gopikrishna
+
+
+                                                                                                         4
+                                                                                                       CHAPTER
+
+
+
+                     “The differences between a competent person and an incompetent person are
+                                 demonstrated in the knowledge of his surroundings.”
+                                                                                      — Ron Hubbard
+
+           Dental Chair
+            This clinical equipment comprises of an electrically operated, retractable patient seating
+             chair to which compressed air, water line, micromotor, spittoon bowl and an overhead
+             light is attached to (Fig 4.1).
+            It also is accompanied by a dental operator stool on which the clinician sits while handling
+             the patient procedures.
+
+
+
+
+                          Fig 4.1 Dental operating chair (Courtesy: Confident Dental Equipments Ltd)
+
+           Phantom Head
+              In the preclinical training area instead of a dental chair a phantom head is employed
+               which simulates the environment present in the patients oral cavity (Fig 4.2).
+
+
+
+
+Chapter-4.indd 161                                                                                     11/26/2010 1:21:17 PM
+                                                                                  KNOW YOUR OPERATING FIELD
+                                                                                                                                  165
+
+           Three Way Syringe
+            Three way syringe is a chair side metal syringe connected to an air-water line (Fig 4.10).
+            It comprises of two buttons; one designated for water spray while the other one is for air
+             spray.
+            If both the buttons are pressed simultaneously, then the resultant spray is an air-water
+             spray.
+            It is a useful device to cleanse the tooth preparation.
+
+
+                        Water spray button
+
+                           Air spray button
+
+
+
+
+                                                                                                Three way syringe
+
+
+
+                                                     Fig 4.10 Three way syringe
+
+
+           Cavity Holder
+            Cavity holder is an extension from the tray holder and would be in close proximity to the
+             operator (Fig 4.11).
+            It would hold the following:
+              Either one/two air-water lines to which airotor handpiece/s can be attached.
+              Three way syringe.
+              Airmotor/micromotor base to which the latch type contra angled or straight hand piece
+                can be attached.
+
+
+                         Airotor water                                                     Speed control valve
+                       spray regulator                                                     for the airmotor/micromotor
+
+                           Airmotor/                                                       Air water line to
+                     micromotor base                                                       which an airotor
+                                                                                           hardpiece is connected
+
+
+                          Three way
+                             syringe
+                                                                                           Air water line
+
+
+                                              Fig 4.11 Cavity holder and its attachments
+
+
+
+
+Chapter-4.indd 165                                                                                                       11/26/2010 1:21:24 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   166
+
+           BEGINNERS’ GUIDE FOR USING INSTRUMENTS AND EQUIPMENT
+
+           I. Connecting the Airotor Handpiece to the Air-Water Line
+           The air-water line is attached to the airotor handpiece with the help of a coupling.
+           Step 1 → Appreciation of air-water line and airotor nozzle morphology (Fig 4.12).
+
+
+                           Air line                                                   Base of the
+                                                                                      airotor handpiece
+
+
+
+
+                                                                                      Air line nozzle
+                                                                                      Water line nozzle
+                       Water line
+
+                        Air water
+                     line coupling
+
+
+
+
+           Fig 4.12 Left: the air-water line consisting of a larger opening which is the air line and one or two
+           smaller opening/s which brings in the water line. Right: the connecting end of the airotor handpiece
+           which has a larger nozzle for the air line and a smaller one to which the water line is connected
+
+
+           Step 2 → Retraction of air-water line coupling (Fig 4.13).
+
+
+
+
+                           Air water                                                     Airotor
+                        line coupling                                                    handpiece
+
+
+
+
+           Fig 4.13 Keep the air line and water line in alignment with the nozzles at the base of the airotor
+           handpiece. The coupling surrounding the top of the air-water line is then gently retracted
+
+
+           Step 3 → Insertion of air-water line into the handpiece (Fig 4.14).
+
+
+
+
+Chapter-4.indd 166                                                                                        11/26/2010 1:21:28 PM
+                                                                             KNOW YOUR OPERATING FIELD
+                                                                                                                    167
+
+
+
+
+                                                                                  Locking threads
+                                                                                  at the base of
+                                                                                  the airotor
+                                                                                  handpiece
+
+
+
+           Fig 4.14 Keeping the alignment of the corresponding sized air-water line and the nozzles in the
+           handpiece, the air-water line is snugly slided into the handpiece
+
+
+           Step 4 → Locking the air-water line coupling ((Fig 4.15).
+
+
+
+
+           Fig 4.15 The coupling surrounding the air-water line is then gently pushed forward and then rotated in
+           a clockwise direction onto the threads present at the base of the airotor handpiece
+
+
+           Step 5 → Assessment of the connection (Fig 4.16).
+
+
+
+
+           Fig 4.16 A proper fit is confirmed when the coupling completely covers the threads present on the base
+           of the handpiece. Improper fit would lead to water leakage from the back of the handpiece along with
+           reduced air pressure
+
+
+
+
+Chapter-4.indd 167                                                                                         11/26/2010 1:21:32 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   174
+
+           Step 10 → Unlocking the handpiece from the airmotor head (Figs 4.32−4.34).
+
+
+
+
+           Fig 4.32 There is a small push button on the side of airmotor head which when pushed would unlock
+           the head from the handpiece
+
+
+
+
+                      Push button
+                     to unlock the
+                        handpiece
+
+
+
+
+           Fig 4.33 The push button lever is pressed and the latch type contra-angled handpiece is then pulled
+           gently upward to release it from the airmotor head
+
+
+
+
+           Fig 4.34 The push button lever is pressed and the straight handpiece is then pulled gently upward to
+           release it from the airmotor head
+
+
+
+
+Chapter-4.indd 174                                                                                       11/26/2010 1:21:59 PM
+                                                                             KNOW YOUR OPERATING FIELD
+                                                                                                                   175
+
+           IV. Placement of Bur into the Latch Type Contra-Angled Handpiece
+           Step 1→ Identifying the latch at the back of the contra-angle handpiece (Fig 4.35).
+
+
+
+
+                                                                  Latch at the back
+                                                                  of the contra-angled
+                                                                  slow speed handpiece
+
+
+
+
+           Fig 4.35 The contra-angled handpiece has a latch which is present on the back side of the head of the
+           handpiece
+
+
+           Step 2 → Opening of the latch (Fig 4.36).
+
+
+
+
+                                                                     Sliding of the
+                                                                     latch in a counter
+                                                                     clockwise direction
+
+
+
+
+           Fig 4.36 The latch can be opened by laterally rotating the latch handle in a counter clockwise
+           direction
+
+
+
+
+Chapter-4.indd 175                                                                                        11/26/2010 1:22:03 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   176
+
+           Step 3 → Insertion of the bur into the handpiece (Fig 4.37).
+
+
+
+
+           Fig 4.37 The bur is inserted into the head of the handpiece and then the bur is rotated in a clockwise
+           direction for it to snugly fit into the head of the contra-angled handpiece
+
+
+           Step 5 → Assessment of proper bur placement (Fig 4.38).
+
+
+
+
+                                                                                The base of the
+                                                                                bur should be seen
+                                                                                at the reverse end
+                                                                                of the head of the
+                                     The bur is locked
+                                                                                handpiece
+                                 into place by sliding
+                              the latch in a clockwise
+                                  direction back to its
+                                      original position
+
+
+
+
+           Fig 4.38 The bur head should be seen at the back of the handpiece and the latch head should be rotated
+           back in a clockwise direction for the bur to be firmly gripped inside. Now gently tug the bur out to check
+           whether the bur placement is properly done. If the bur is loose, then replace it into the channel and then
+           redo step 4
+
+
+
+
+Chapter-4.indd 176                                                                                             11/26/2010 1:22:04 PM
+                                  FUNDAMENTALS OF
+                                 CAVITY PREPARATION
+                                                           V Gopikrishna, M Abarajithan
+
+
+                                                                                                      5
+                                                                                                 CHAPTER
+
+
+
+                                    “Never let anything discourage you…
+                          Everyone who got where he is had to begin where he was…”
+                                                                                — Richard L Evans
+
+
+           INTRODUCTION
+           Initially, the operator should assess the clinical condition of the tooth and formulate an
+           appropriate treatment plan. This involves the proper diagnosis and ﬁnalization of the kind
+           of restorative treatment in consultation with the patient’s needs and aspirations.
+              The preparation of the tooth structure for a restoration varies according to the kind of
+           restorative material being chosen. However, there are certain core fundamental principles
+           which an operator has to follow immaterial of the kind of restoration. This chapter would give
+           an overview of the basic principles and nomenclatures involved during cavity preparation.
+
+           Cavity Nomenclature (Figs 5.1−5.6)
+            External wall: A prepared cavity wall that extends to the cavity margin or the external
+             tooth surface.
+            Internal wall: A prepared cavity wall that does not extend to the cavity margin or the
+             external surface.
+            Axial wall: An internal wall parallel to the long axis of the tooth.
+            Pulpal ﬂoor/wall: An internal surface of the cavity perpendicular to the long axis of the
+             tooth.
+            Floor: A Floor or a seat is a prepared wall that is reasonably ﬂat and perpendicular to the
+             occlusal forces that are directed occluso-gingivally, e.g. pulpal ﬂoor and gingival seat.
+            Line angle: Junction of two planar surface of different orientation along a line.
+            Point angle: Junction of three planar surface of different orientation.
+
+                  Class I cavity: line angle-8; point angle-4 (Fig 5.1)
+                  Class II cavity: line angle-11; point angle-6 (Fig 5.2)
+                  Class III cavity: Proximal approach: line angle-3; point angle-3.
+                                     Palatal approach: line angle-5; point angle-2
+
+
+
+
+Chapter-5.indd 185                                                                                 11/26/2010 12:35:31 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   186
+
+                     Class IV cavity: Proximal approach: line angle-6; point angle-3 (Fig 5.3).
+                                       Palatal approach: line angle-7; point angle-3
+                     Class V cavity: line angle-11; point angle-6 (Fig 5.4)
+                     Class VI cavity: line angle-8; point angle-4
+
+
+
+                                   Distal wall
+                                   Buccal wall                                    Lingual wall
+                                   Pulpal floor
+
+                                                                                  Mesial wall
+
+
+
+
+                                  Fig 5.1 Nomenclature of cavity walls in a class I cavity
+
+
+
+
+                                                          tal
+                                                      Dis             Pulpal
+                                                    Facial                       Internal walls
+                                    External        Ling
+                                    walls                u
+                                                     Gin a l          Axial
+                                                         giv
+                                                              a   l
+
+
+
+                                                                               Comentoenamel
+                                                                               junction (CEJ)
+
+
+
+                                  Fig 5.2 Nomenclature of cavity walls in a class II cavity
+
+
+
+
+                                                  Gingival wall
+                                                  Labial wall
+                                                  Axial wall
+                                                  Incisal wall
+
+
+
+
+                                  Fig 5.3 Nomenclature of cavity walls in a class IV cavity
+
+
+
+
+Chapter-5.indd 186                                                                                11/26/2010 12:35:32 PM
+                                                                                       FUNDAMENTALS OF CAVITY PREPARATION
+                                                                                                                                                187
+
+
+
+                                                                                               Occlusal wall
+                                                                                               Mesial wall
+                                                Distal wall
+                                                                                               Axial wall
+                                                Gingival wall
+
+
+
+
+                                              Fig 5.4 Nomenclature of cavity walls in a class V cavity
+
+
+
+                     Mesial wall
+                                                                                                               Mesio-pulpal line angle
+                     Lingual wall
+                     Pulpal wall
+                                                                                                               Linguo-pulpal line angle
+                     Buccal (facial) wall
+                     Distal wall
+                     Occlusal wall
+                     Mesial wall                                                                               Mesio-axial line angle
+                     Axial wall
+                     Distal wall                                                                               Axio-gingival line angle
+
+                     Gingival wall
+
+
+
+                           Fig 5.5 Nomenclature of cavity walls and line angles in a class I and class V cavity
+
+                         Lingual wall       Cavosurface margin
+
+                                                                               Axio-pulpal
+                      Buccal                                  Pulpal wall
+                      (facial)                                                                                        Pulpo-lingual
+                      wall                                    Lingual wall
+                                                                                                                      Axio-pulpal
+                      Axial                                                    Axio-buccal
+                      wall                                    Axial wall
+                                                              Lingual wall
+                                                                              Axio-gingival                           Gingivo-lingual
+                                                              Gingival wall
+                                                                                                                      Axio-pulpal
+
+
+
+
+                                   Fig 5.6 Nomenclature of cavity walls and line angles in a class II cavity
+
+           Cavosurface margin and cavosurface: It is the outer margin of the cavity and the angle
+           formed by the junction of a prepared cavity wall and the external surface of the tooth is
+           called cavosurface angle (Fig 5.7).
+
+
+
+
+Chapter-5.indd 187                                                                                                                    11/26/2010 12:35:32 PM
+                                                                             FUNDAMENTALS OF CAVITY PREPARATION
+                                                                                                                                        191
+
+
+                            0.75mm
+
+
+
+                     701
+
+
+
+                            0.5mm
+
+                              DEJ
+
+                                                                                                                        0.2mm
+
+                                                                                                                        DEJ
+                                                          0.2mm
+                                                                             CEJ
+
+                     (a)                                                      (b)
+
+
+           Fig 5.8 Initial tooth preparation. Note in (a) and (b) that extensions in all directions are to sound tooth
+           structure while maintaining a specific limited pulpal or axial depth regardless whether end (or side) of bur
+           is in dentin, caries, old restorative material, or air. DEJ and CEJ indicated in (b). Note in (a) that initial depth
+           is approximately two thirds of 3 mm bur head length, or 2 mm, as related to prepared facial and lingual
+           walls, but is half the No. 245 bur head length, or 1.5 mm, as related to central fissure location
+
+
+                                                                   2
+                                                                       3 ½
+                                           Cusp tip                          Primary groove
+
+
+                                                                                                                      OK
+                                                2
+                                                    3
+                                                                                              ½ to 3 2 – Consider capping
+                                                ½
+                                                                                          or more–recommend capping
+                                             Primary
+                                             groove                                    Facial groove
+                     Mandibular molar
+                                             Central
+                                             groove
+
+
+           Fig 5.9 Rule for cusp capping: If extension from a primary groove toward the cusp tip is no more than
+           half the distance, then no cusp capping; if this extension is from one half to two thirds of the distance, then
+           consider cusp capping; if the extension is more than two thirds of the distance, then usually cap the cusp
+
+
+              Rule 4 → Extend the preparation margin to include the entire ﬁssure that cannot be
+               eliminated by appropriate enameloplasty (Fig 5.10).
+
+
+
+
+Chapter-5.indd 191                                                                                                            11/26/2010 12:35:32 PM
+                              PRECLINICAL PLASTER
+                                 MODEL EXERCISES
+                                                        G Vijayalakshmi, V Gopikrishna
+
+
+                                                                                                    6
+                                                                                                CHAPTER
+
+
+
+                        “A person who never made a mistake never tried anything new.”
+                                                                                  — Albert Einstein
+
+
+           INTRODUCTION
+           Plaster model exercise deals with preparation of cavities from class I to class V in plaster
+           models of different teeth which are three times the size of the natural teeth.
+              Cavities are prepared with the help of an enamel chisel and the cavity dimensions are
+           measured with a graduated probe (Williams probe).
+           These exercises are meant to make the student:
+              i. Appreciate the tooth morphology better
+             ii. Understand the nomenclature of the cavity walls and surfaces
+            iii. Understand the basic principles of cavity preparation including outline, resistance,
+                 retention and convenience forms.
+
+
+                                 CLASS I CAVITY: WALLS, LINE ANGLES
+                                          AND POINT ANGLES
+
+           Exercise I: Class I in Maxillary First Premolar (Figs 6.1−6.14)
+           Dimensions
+            Width of the cavity: 2 mm at the centre and 3 mm at the dovetail region
+            Depth of the cavity: 4−5 mm
+            Mesiodistal extension of the cavity: 8−10 mm
+
+
+
+
+Chapter-6.indd 211                                                                               11/26/2010 12:34:16 PM
+                                                                       PRECLINICAL PLASTER MODEL EXERCISES
+                                                                                                                             237
+
+                            CLASS II CAVITY: WALLS, LINE ANGLES AND POINT
+                                     ANGLES (Figs 6.132 and 6.133)
+
+
+                                                                                   d
+                                                f
+                                                                                   l
+                                                p
+                                                f                                  l
+                                                                                   a
+                                                g
+
+
+
+
+           Fig 6.132 Tooth preparation walls: facial (f) of proximal and occlusal portions, gingival (g), lingual (I)
+           of proximal and occlusal portions, distal (d), pulpal (p) and axial (a)
+
+                                                                 dp
+
+                                                df                                     dl
+                                               dfp                                     dlp
+                                                fp                                     lp
+                                                                                       ap
+                                               afp                                     alp
+                                                af                                     al
+                                               afg                                     alg
+
+
+
+
+                                                            fg   ag    lg
+
+           Fig 6.133 Line angles are distofacial (df), faciopulpal (fp), axiofacial (af), faciogingival (fg), axiogingival
+           (ag), linguogingival (Ig), axiolingual (al), axiopulpal (ap), linguopulpal (Ip), distolingual (dl) and
+           distopulpal (dp). Point angles are distofaciopulpal (dfp), axiofaciopulpal (afp), axiofaciogingival (afg),
+           axiolinguogingival (alg), axiolinguopulpal (alp) and distolinguopulpal (dlp)
+
+
+           Exercise X: Class II Mesio-Occlusal (MO) Cavity in
+           a Mandibular First Molar (Figs 6.134−6.162)
+           Dimensions
+            Width of the occlusal cavity: 2−3 mm
+            Depth of the occlusal cavity: 5 mm
+            Width of the proximal ﬂare: 4−5 mm
+            Depth/height of the axial wall: 3 mm
+
+
+
+
+Chapter-6.indd 237                                                                                                 11/26/2010 12:34:33 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   238
+
+              Width of the gingival seat (mesiodistal): 3 mm
+              Depth of the gingival seat (buccolingual): 5−6 mm
+
+
+
+
+                     Fig 6.134 Outline form—occlusal view    Fig 6.135 Outline form—mesio-occlusal view
+
+
+
+
+            Fig 6.136 Entering the grooves-extension for    Fig 6.137 Preserving the marginal ridge on the
+            prevention                                      uninvolved side
+
+
+
+
+                           Fig 6.138 Proximal flare             Fig 6.139 Punch cut given with a chisel
+
+
+
+
+Chapter-6.indd 238                                                                                    11/26/2010 12:34:33 PM
+                                                          PRECLINICAL PLASTER MODEL EXERCISES
+                                                                                                             239
+
+
+
+
+            Fig 6.140 Measuring the depth of the punch    Fig 6.141 Entering the cavity with a chisel
+            cut with a graduated probe
+
+
+
+
+            Fig 6.142 Cavity extended mesiodistally and          Fig 6.143 Placing undercuts
+            checking the occlusal convergence
+
+
+
+
+                     Fig 6.144 Buccoproximal flare             Fig 6.145 Linguoproximal flare
+
+
+
+
+Chapter-6.indd 239                                                                                 11/26/2010 12:34:35 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   240
+
+
+
+
+            Fig 6.146 Cavity extended mesially leaving           Fig 6.147 Width of the proximal flare
+            thin proximal wall
+
+
+
+
+            Fig 6.148 Isolation of proximal enamel wall     Fig 6.149 Occlusal and proximal box preparation
+                                                            with intact proximal wall
+
+
+
+
+            Fig 6.150 Dovetail given on the distal margin         Fig 6.151 Proximal ditch cut made
+
+
+
+
+Chapter-6.indd 240                                                                                       11/26/2010 12:34:35 PM
+                                                                PRECLINICAL PLASTER MODEL EXERCISES
+                                                                                                                  241
+
+
+
+
+            Fig 6.152 Proximal wall broken with the chisel   Fig 6.153 Defining the gingival seat and
+                                                             measuring the axial wall height
+
+
+
+
+            Fig 6.154 Measuring the buccolingual width       Fig 6.155 Measuring the mesiodistal width of the
+            of the gingival seat                             gingival seat
+
+
+
+
+                       Fig 6.156 Isthmus region                      Fig 6.157 Axiopulpal line angle
+
+
+
+
+Chapter-6.indd 241                                                                                      11/26/2010 12:34:36 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   242
+
+
+
+
+            Fig 6.158 Axiogingival line angle roundened          Fig 6.159 Measuring the final depth
+
+
+
+
+            Fig 6.160 Measuring the final width of the cavity   Fig 6.161 Completed cavity preparation
+
+
+
+
+                                 Fig 6.162 Completed preparation—occlusoproximal view
+
+
+
+
+Chapter-6.indd 242                                                                                     11/26/2010 12:34:37 PM
+                                  PRECLINICAL
+                           TYPHODONT EXERCISES
+                                                        V Gopikrishna, G Vijayalakshmi
+
+
+                                                                                                   7
+                                                                                                CHAPTER
+
+
+
+            “I’ve missed over 9,000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been
+                              trusted to take the game-winning shot… and I’ve missed,
+                  I’ve failed over and over and over again in my life. And that is why I succeed.”
+                                                                                       — Michael Jordan
+
+
+                                          PRECLINICAL EXERCISES
+            Class I cavity for amalgam restoration
+              Mandibular ﬁrst molar
+              Mandibular ﬁrst premolar
+              Maxillary ﬁrst molar
+              Mandibular ﬁrst molar with buccal extension
+            Class II cavity for amalgam restoration
+              MO− Mesio-occlusal cavity in mandibular ﬁrst molar
+              DO− Disto-occlusal cavity in maxillary ﬁrst molar
+              MO− Mesio-occlusal cavity in mandibular ﬁrst premolar for composite restoration
+              DO− Disto-occlusal cavity in mandibular ﬁrst premolar
+              MOD− Mesio-occlusal-distal cavity in mandibular ﬁrst molar
+            Class III cavity for glass ionomer restoration
+            Incisal build up (class IV) of maxillary central incisor for composite restoration
+            Class V cavity for glass ionomer restoration in mandibular ﬁrst molar
+            Cast metal inlay cavity preparation, fabrication of wax pattern and casting technique in
+             a mandibular second molar
+
+
+           I. CLASS I CAVITY PREPARATION FOR AMALGAM RESTORATION
+
+           Deﬁnition of Class I
+           Cavities occurring in one or more of the following locations:
+            a. Pits and ﬁssures of occlusal surfaces of molars and premolars
+
+
+
+
+Chapter-7.indd 271                                                                               11/26/2010 1:17:46 PM
+                                                                        PRECLINICAL TYPHODONT EXERCISES
+                                                                                                                    299
+
+           Class II Cavity Preparation (MO - Mesio Occlusal) for a Mandibular First Molar
+
+           I. Cavity Preparation (Figs 7.88−7.102)
+
+
+
+
+                                      Fig 7.88 Occlusal anatomy of a mandibular first molar
+
+
+
+
+                     Fig 7.89 Occlusal preparation completed     Fig 7.90 Occlusal preparation extended mesially
+                                                                 without breaking the proximal enamel wall
+
+
+
+
+                                              Dovetail
+
+
+
+
+                                              Reverse curve
+
+
+
+            Fig 7.91 Dovetail given on the uninvolved            Fig 7.92 Bur placed extracoronally to ascertain
+            proximal side. Reverse curve and proximal            the proposed depth of the proximal box
+            flare given on the mesial side
+
+
+
+
+Chapter-7.indd 299                                                                                         11/26/2010 1:18:15 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   300
+
+
+
+
+            Fig 7.93 Proximal ditch cut prepared with an             Fig 7.94 Refining the axial wall and the gingival
+            intact margin after placement of matrix band to          seat
+            prevent the inadvertent nicking of the adjacent
+            tooth
+
+
+
+
+                     (a)                                                   (b)
+
+                           Fig 7.95 (a, b) Removal of the thin shell of enamel wall with a chisel or hatchet
+
+
+
+
+                            Fig 7.96 Contact broken in all three planes−facially, lingually and gingivally
+
+
+
+
+Chapter-7.indd 300                                                                                               11/26/2010 1:18:18 PM
+                                                                      PRECLINICAL TYPHODONT EXERCISES
+                                                                                                                     301
+
+
+
+
+                     (a)                                                (b)
+
+                     Fig 7.97 (a, b) Gingival marginal trimmer used to rounden the axiopulpal line angle
+
+
+
+
+            Fig 7.98 Cleaving the marginal enamel and          Fig 7.99 Planing the gingival floor to render it
+            planing the walls with a hatchet                   smooth and free from irregularities with a hatchet
+
+
+
+
+            Fig 7.100 Using a gingival marginal trimmer        Fig 7.101 The round end of the plastic instrument
+            to plane the gingival seat margin                  is moved along the pulpal floor in order to check
+                                                               the convenience form
+
+
+
+
+Chapter-7.indd 301                                                                                          11/26/2010 1:18:19 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   306
+
+              Step 5 → The smaller outer knurled nut is moved clockwise to tighten the pointed spindle
+               against the band.
+
+
+
+
+                       (a)                                                  (b)
+           Fig 7.118 Step 6 (a, b) → The loop of the matrix band can be placed either left or to the right side of
+           the locking vise depending on the tooth to be restored
+
+
+              Step 6 → The large inner knurled nut is rotated clockwise to secure the band snugly
+               around the tooth.
+
+
+
+
+                 (a)                                                  (b)
+
+           Fig 7.119 (a, b) Right placement of the retainer with the open end of the retainer head facing gingivally
+           and the closed head facing occlusally
+
+
+
+
+Chapter-7.indd 306                                                                                            11/26/2010 1:18:33 PM
+                                                                      PRECLINICAL TYPHODONT EXERCISES
+                                                                                                                       307
+
+           Common errors in placement of the tofﬂemire retainer (Figs 7.120−7.123)
+
+
+
+
+                     (a)                                              (b)
+
+           Fig 7.120 (a, b) Error I → Wrong placement of the retainer with the open end of the retainer head
+           facing occlusally and the closed head facing gingivally
+
+
+
+
+            Fig 7.121 Error II → Placement of retainer in the   Fig 7.122 Error III → Lingually placed retainer.
+            opposite direction with the head of the retainer    This should not be attempted in a clinical situation
+            facing the operator and the small knurled nut       wherein the retainer might injure the tongue of
+            away from the operator                              the patient
+
+
+
+
+Chapter-7.indd 307                                                                                            11/26/2010 1:18:36 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   312
+
+
+
+
+            Fig 7.132 “Stepping” the amalgam. The                 Fig 7.133 Excess amalgam after the
+            condenser is moved systematically forward and         condensation procedure is being removed
+            sideways to cover the previous location with half     with the help of a sickle explorer
+            the face of the condenser. Each particle is thereby
+            insured of being condensed at least twice
+
+
+
+
+                              Fig 7.134 Precarve burnishing being done with a round burnisher
+
+
+
+
+             (a)                                 (b)                               (c)
+                     Fig 7.135 (a, b, c) Carving of occlusal contour using the cuspal incline as guidance
+
+
+
+
+Chapter-7.indd 312                                                                                          11/26/2010 1:18:41 PM
+               PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   348
+
+
+
+
+           Fig 7.282 Application of the separating media with the help of an applicator brush. Care should be
+           taken to allow for the evaporation of the separating media before the molten inlay wax is inserted into
+           the inlay cavity preparation
+
+
+
+
+                           (a)
+                                                                             (b)
+           Fig 7.283 (a, b) Placement of molten inlay wax with the help of a heat carrier inside the prepared
+           cavity
+
+
+
+
+                     (a)                                               (b)
+
+                                 Fig 7.284 (a, b) Fabrication and carving of the inlay wax pattern
+
+           II Sprue former attachment (Figs 7.285−7.287)
+            Sprue former is the mould channel through which the molten/alloy ﬂows into mould cav-
+             ity.
+            Sprue former can be of:
+              Metal coated with wax
+
+
+
+
+Chapter-7.indd 348                                                                                          11/26/2010 1:20:09 PM
+                                                                     PRECLINICAL TYPHODONT EXERCISES
+                                                                                                                  349
+
+               Plastic
+               Entirely of wax
+            The length of the sprue former depends on the length of the casting ring and it should be
+             as thick as the thickest areas of the pattern.
+            A reservoir should be added to the sprue to prevent localized shrinkage porosity.
+            The attachment of the sprue former to the wax pattern is ﬂared. It is attached at 45 de-
+             gree angulation to the wax pattern in its thickest portion.
+
+
+
+
+           Fig 7.285 Wax sprue former being attached at an angle of 45 degrees to the thickest portion of the
+           wax pattern
+
+
+
+
+               (a)                            (b)                                   (c)
+           Fig 7.286 (a, b, c) Wax reservoir being created on the sprue channel at a distance of 2 mm away from
+           the wax pattern
+
+                                                                     Sprue former
+
+
+
+                                                                     Wax reservoir
+
+                                                                     Inlay wax pattern
+
+
+
+                       Fig 7.287 Prepared wax pattern with the attached sprue former and reservoir
+
+
+           III Investment procedure (Figs 7.288−7.303)
+           A. Fabrication of crucible former for the investment ring
+
+
+
+
+Chapter-7.indd 349                                                                                       11/26/2010 1:20:11 PM
+                     COMMON VIVA QUESTIONS
+                             AND SPOTTERS
+                                                                           G Vijayalakshmi
+
+
+                                                                                                       8
+                                                                                                   CHAPTER
+
+
+
+                                “He who asks a question is a fool for ﬁve minutes,
+                              He who does not ask a question remains a fool forever.”
+                                                                                    — Chinese Proverb
+
+
+           CAVITY PREPARATION
+
+           Deﬁne operative dentistry.
+           Operative dentistry is a subject that deals with the diagnosis, prevention and treatment
+           of problems and conditions of natural teeth, both vital and nonvital, so as to preserve
+           the natural dentition and restore it to the best state of teeth, function and aesthetics
+           (Gilmore).
+              Operative dentistry is the art and science of the diagnosis, treatment and prognosis of
+           teeth that do not require full coverage restoration for correction. Such treatment should
+           result in the restoration of proper tooth form, function and aesthetics while maintaining
+           the physiologic integrity of the teeth in harmonious relationship with the adjacent hard
+           and soft tissues, all of which should enhance the general health and welfare of the patient
+           (Sturdevant).
+
+           Deﬁne tooth preparation or cavity preparation.
+           Tooth preparation or cavity preparation is deﬁned as the mechanical alteration of a defective,
+           injured or diseased tooth to best receive a restorative material that will reestablish a healthy
+           state for the tooth, including aesthetic corrections where indicated, along with normal form
+           and function.
+
+           What are the types of tooth preparation?
+              Conventional: A preparation where apart from removal of diseased portion, extension is
+               also made so as to include all pits and tissues, unsupported areas to prevent further caries
+               formation, for speciﬁc restorations, e.g. amalgam, direct ﬁlling gold, cast restoration.
+
+
+
+
+Chapter-8.indd 361                                                                                   11/25/2010 8:28:36 PM
+              PRECLINICAL MANUAL OF CONSERVATIVE DENTISTRY
+   388
+
+                                   Amalgam Capsule
+                                    Amalgam capsule is a preproportioned capsule containing
+                                     amalgam alloy and mercury in two compartments separated
+                                     by a diaphragm and a pestle.
+           Spotter 3                It is used in mechanical triturator called amalgamator.
+                                    It helps in proper proportioning of amalgam alloy and mercury
+                                     and prevents mercury spillage.
+                                    It reduces working time.
+
+
+
+
+                                   Amalgam Finishing Kit
+                                    Amalgam ﬁnishing kit contains various grades of ﬁnishing stones
+                                     from coarse to ﬁne in different sizes.
+                                    It is ﬁtted to slow speed handpieces and used for ﬁnishing
+                                     amalgam restoration after 24 hours.
+
+
+
+           Spotter 4
+
+
+                                   Acid Etchant
+                                    Acid etchant is supplied in a syringe as a gel form.
+                                    It comprises 37% of phosphoric acid.
+                                    It is used to etch the tooth surface for removal of smear layer,
+
+           Spotter 5                 better wetting of resin and to increase the mechanical reten-
+                                     tion of the restoration.
+                                    On application, it produces a white frosty appearance on the
+                                     tooth surface.
+
+
+                                   Dentin Bonding Agent
+                                    Dentin bonding agent is supplied in a liquid form in a bottle.
+                                    Main components of dentin bonding agents are HEMA and Bis-
+                                     GMA.
+                                    It penetrates into the etched tooth surface and forms resin—
+                                     dentin interface called hybrid layer.
+
+
+           Spotter 6
+
+
+
+
+Chapter-8.indd 388                                                                             11/25/2010 8:28:39 PM
+                                  GLOSSARY OF TERMS
+                                                                            M Abarajithan
+
+
+                                                                                                      9
+                                                                                                  CHAPTER
+
+
+
+                                            “A rose is a rose is a rose.”
+                                                                                         — Gertude Stein
+
+
+           Operative dentistry is the art and science of the diagnosis, treatment and prognosis of defects
+           of teeth that do not require full coverage restorations for correction. Such treatment should
+           result in the restoration of proper tooth form, function and aesthetics while maintaining the
+           physiologic integrity of the teeth in harmonious relationship with the adjacent hard and soft
+           tissues, all of which should enhance the general health and welfare of the patient.
+
+
+           ANATOMICAL LANDMARKS
+           Crown: The part of a tooth that is covered with enamel or an artiﬁcial substitute for that
+           part.
+           Neck: The slightly constricted part of a tooth between the crown and the root.
+           Root: The part of the tooth below the neck covered by cementum and attached by the
+           periodontal ligament to the alveolar bone.
+           Dentinoenamel junction (DEJ): The dentinoenamel junction (DEJ) is the junction of the
+           enamel and dentin.
+           Cementoenamel junction (CEJ): The cementoenamel junction (CEJ) is the junction of the
+           enamel and cementum.
+           Anatomic tooth crown: The anatomic tooth crown is the portion of the tooth covered by
+           enamel.
+           Clinical tooth crown: The clinical tooth crown is the portion of the tooth crown which is
+           exposed to the oral cavity.
+              Cusp—A cusp is an elevation or mound on the crown portion of a tooth making up a divi-
+               sional part of the occlusal surface.
+
+
+
+
+Chapter-9.indd 397                                                                                  11/25/2010 8:29:19 PM
+
