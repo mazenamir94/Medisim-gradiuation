@@ -1,0 +1,34 @@
+{
+  "procedures": {
+    "ClassI_Cavity": {
+      "min_accuracy": 90.0,
+      "min_time_seconds": 50.0,
+      "steps": [
+        "1. Enter enamel with round bur.",
+        "2. Extend outline to sound dentin.",
+        "3. Remove remaining decay."
+      ],
+      "book_reference": {
+        "title": "Sturdevant's Art and Science of Operative Dentistry",
+        "chapter": "Chapter 3: Cavity Prep",
+        "page": "145",
+        "quote": "Failure to remove all unsupported enamel will lead to fracture."
+      }
+    },
+    "Amalgam_Filling": {
+      "min_accuracy": 80.0,
+      "max_fill_percent": 110.0,
+      "steps": [
+        "1. Place matrix band tight.",
+        "2. Condense composite firmly.",
+        "3. Carve anatomy."
+      ],
+      "book_reference": {
+        "title": "Clinical Operative Dentistry",
+        "chapter": "Chapter 9: Restorations",
+        "page": "202",
+        "quote": "Overfilling leads to high occlusion and patient pain."
+      }
+    }
+  }
+}
